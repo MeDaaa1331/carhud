@@ -10,6 +10,8 @@ ________________________________________________________________________________
 
 - Download md_carhud, drop it to your FiveM server resources, add ensure md_carhud to your server.cfg and enjoy!
 <img width="435" height="127" alt="image" src="https://github.com/user-attachments/assets/f9cb81aa-fc65-4af1-ab23-b1554feecdab" />
+<img width="434" height="126" alt="image" src="https://github.com/user-attachments/assets/86a44b4f-2977-4de7-a9d4-f38fe7c134da" />
+
 ________________________________________________________________________________________________________
 
 More of my work on: https://discord.gg/Ze4m2Uyxjw
