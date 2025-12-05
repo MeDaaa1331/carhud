@@ -2,7 +2,9 @@
 
 - Simple & Minimalist FiveM CarHud using smooth RPM bar and neon colors!
 - Fuel level & Engine health idicator
-- Highly configurable
+- Transmission shift indicator
+- Highly configurable colors
+- MPH / KPH
 - Open Source
 ________________________________________________________________________________________________________
 
